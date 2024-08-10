@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoyounik&label=Profile%20views&color=0e75b6&style=flat" alt="yoyounik" /> </p>
 
-🔭 I’m currently working on:
+🔭 I’m currently working on:<br>
 cloud-based solutions(AWS) and implementing microservices architecture.
 
 👯 I’m looking to work on:
