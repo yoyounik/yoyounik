@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br><br>cloud-based solutions(AWS) and implementing microservices architecture.<br><br>👯 I’m looking to work on: <br><br>Fullstack, Backend Projects<br><br>🌱 I’m currently learning:<br><br>AWS Services and ava 8.<br><br>💬 Ask me about:<br><br>JavaScript, React JS, Spring Boot, AWS, and any general software development questions including DSA and LLD.<br>
+🔭 I’m currently working on:<br><br>cloud-based solutions(AWS) and implementing microservices architecture.<br><br>👯 I’m looking to work on: <br><br>Fullstack, Backend Projects<br><br>🌱 I’m currently learning:<br><br>AWS Services and Java 8.<br><br>💬 Ask me about:<br><br>JavaScript, React JS, Spring Boot, AWS, and any general software development questions including DSA and LLD.<br>
 
 
 ## 🌐 Socials:
