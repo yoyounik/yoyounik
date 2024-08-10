@@ -4,19 +4,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoyounik&label=Profile%20views&color=0e75b6&style=flat" alt="yoyounik" /> </p>
 
 - 🔭 I’m currently working on
--  **Improving cloud-based knowledge(AWS) and implementing microservices architecture using Spring Boot**
+  Improving cloud-based knowledge(AWS) and implementing microservices architecture using Spring Boot
 
 - 🌱 I’m currently learning
-- **AWS Services and Java8.**
+- AWS Services and Java8.
 
 - 👯 I’m looking to work on
-- **Fullstack and Backend Projects**
+  Fullstack and Backend Projects
 
 - 💬 Ask me about
-- **JavaScript, React,Spring Boot, AWS, and any general software development questions including DSA and LLD.**
+  JavaScript, React,Spring Boot, AWS, and any general software development questions including DSA and LLD.
 
 - ⚡ Fun fact
-- **I think I have some good ideas**
+  I think I have some good ideas
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
