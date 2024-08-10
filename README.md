@@ -6,16 +6,16 @@
 🔭 I’m currently working on:<br>
 cloud-based solutions(AWS) and implementing microservices architecture.
 
-👯 I’m looking to work on:
+👯 I’m looking to work on: <br>
 Fullstack, Backend Projects
 
-🌱 I’m currently learning:
+🌱 I’m currently learning:<br>
 AWS Services and ava 8.
 
-💬 Ask me about:
+💬 Ask me about:<br>
 JavaScript, React JS, Spring Boot, AWS, and any general software development questions including DSA and LLD.
 
-⚡ Fun fact
+⚡ Fun fact<br>
 I think I am a good video editor too
 
 <h3 align="left">Connect with me:</h3>
